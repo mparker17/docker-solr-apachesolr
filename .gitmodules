@@ -1,0 +1,4 @@
+[submodule "apachesolr"]
+	path = apachesolr
+	url = http://git.drupal.org/project/apachesolr.git
+	branch = 7.x-1.x
